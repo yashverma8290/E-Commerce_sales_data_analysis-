@@ -1,4 +1,4 @@
-# ---------------------📊 E-commerce Sales Data Analysis -----------------------
+# ----------------📊 E-commerce Sales Data Analysis -----------------
 # 📝 Overview
 This project analyzes an E-commerce dataset to uncover insights into sales trends, profit distribution, and customer segments. The analysis involves data preprocessing, exploratory data analysis (EDA), and visualization using NumPy, pandas, Matplotlib, and Seaborn.
 
